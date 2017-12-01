@@ -1,6 +1,6 @@
-## Returns inverse of matrix- for an inverse of a matrix that has previously been calculated, function prints cache
+## For an inverse of a matrix that has previously been calculated, function prints cache, otherwise calculates inverse
 
-## Calculae and cache inverse of a matrix
+## Calculate and cache inverse of a matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   i<- NULL
